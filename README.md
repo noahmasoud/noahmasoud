@@ -1,8 +1,6 @@
-# Hello, I'm Noah 
+# About Me:
 
-Currently pursuing my B.S. in Computer Science at Texas State University, I've spent the past few years turning theory into practice through multiple industry internships and hands-on projects. I've learned to be resourceful, ask the right questions, and figure things out—skills that translate directly into how I approach engineering. Whether I'm building RESTful APIs, designing database schemas, or deploying web applications, I focus on writing clean, maintainable code that solves real problems.
-
-I'm particularly interested in working on solutions that will actually be used. I like the idea of creating software that can be used as a tool for developers—systems that make their workflows smoother, faster, and more reliable.
+Currently pursuing my B.S. in Computer Science at Texas State University, I've spent the past few years turning theory into practice through multiple industry internships and hands-on projects. As a firt-gen student I've learned to be resourceful, ask the right questions, and figure things out—skills that translate directly into how I approach engineering. I'm particularly interested in working on solutions that will actually be used. I like the idea of creating software that can be used as a tool for developers—systems that make their workflows smoother, faster, and more reliable.
 
 ## Current Focus
 
@@ -32,7 +30,7 @@ Working on **AutoDoc**, a CI/CD tool that automates documentation generation fro
 
 ## Featured Projects
 
-**AutoDoc** — Capstone Project (Team Lead)
+**AutoDoc** — Capstone Project 
 - CLI service automating documentation from Git commits using CI/CD pipelines
 - Python AST parsing for code change extraction with structured JSON export
 - Docker containerization for consistent pipeline execution
@@ -48,15 +46,9 @@ Working on **AutoDoc**, a CI/CD tool that automates documentation generation fro
 - Created a prototype from our product idea, while working with a multidisciplinary team
 - Tech: TypeScript, React + Vite, Python, Firestore
 
-**Schedule Genius** — Web Application (Team Project) | [Live Demo](https://schedulegenius-v2.web.app/)
+**Schedule Genius** — Web Application | [Live Demo](https://schedulegenius-v2.web.app/)
 - Task tracking and schedule management web application for college students, hosted on Firebase
 - Built authentication system with Firebase Auth and real-time data storage with Firestore
 - Implemented private routing, sign-out functionality, and continuous scroll features
 - Developed responsive dashboard with collapsible sidebar and dynamic calendar integration
 - Tech: React, Firebase, JavaScript
-
-## Connect
-
-- Email: noahmascs@gmail.com
-- LinkedIn: [linkedin.com/noahmasoud](https://linkedin.com/in/noahmasoud)
-- Portfolio: [github.com/noahmasoud](https://github.com/noahmasoud)
