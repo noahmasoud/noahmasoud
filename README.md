@@ -1,4 +1,4 @@
-# Hi, I'm Noah 
+# Hello, I'm Noah 
 
 Currently pursuing my B.S. in Computer Science at Texas State University, I've spent the past few years turning theory into practice through multiple industry internships and hands-on projects. I've learned to be resourceful, ask the right questions, and figure things out—skills that translate directly into how I approach engineering. Whether I'm building RESTful APIs, designing database schemas, or deploying web applications, I focus on writing clean, maintainable code that solves real problems.
 
