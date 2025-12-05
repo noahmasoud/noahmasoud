@@ -45,6 +45,7 @@ Working on **AutoDoc**, a CI/CD tool that automates documentation generation fro
 
 **Cat Connect** — Hackacat Nano 2024 (Best Product Award)
 - Mentor-student matching application built in 7-hour hackathon timeframe
+- Created a prototype from our product idea, while working with a multidisciplinary team
 - Tech: TypeScript, React + Vite, Python, Firestore
 
 **Schedule Genius** — Web Application (Team Project) | [Live Demo](https://schedulegenius-v2.web.app/)
