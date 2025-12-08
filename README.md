@@ -1,6 +1,6 @@
 # About Me:
 
-Finishing my B.S. in Computer Science at Texas State in December 2025, I've spent my college years building real software across enterprise sales platforms, EDI integrations, and internal tooling systems. From optimizing logging infrastructure with RabbitMQ at Dell to building time-tracking applications that eliminate manual data entry, I'm drawn to problems where good engineering directly improves how people work. My technical foundation spans Python, C#, TypeScript, and .NET, but what I really care about is understanding the 'why' behind a system before jumping into the 'how.'
+CS student at Texas State graduating December 2025. I've worked on enterprise systems at Dell, EDI integrations, and internal tooling. Right now I'm building AutoDoc - automating documentation updates from code changes. I care about understanding the 'why' behind a system before jumping into the 'how.'
 
 ## Featured Projects
 
