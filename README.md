@@ -1,6 +1,6 @@
 # About Me:
 
-Currently pursuing my B.S. in Computer Science at Texas State University, I've spent the past few years turning theory into practice through multiple industry internships and hands-on projects. As a firt-gen student I've learned to be resourceful, ask the right questions, and figure things out—skills that translate directly into how I approach engineering. I'm particularly interested in working on solutions that will actually be used. I like the idea of creating software that can be used as a tool for developers—systems that make their workflows smoother, faster, and more reliable.
+Finishing my B.S. in Computer Science at Texas State in December 2025, I've spent my college years building real software across enterprise sales platforms, EDI integrations, and internal tooling systems. From optimizing logging infrastructure with RabbitMQ at Dell to building time-tracking applications that eliminate manual data entry, I'm drawn to problems where good engineering directly improves how people work. My technical foundation spans Python, C#, TypeScript, and .NET, but what I really care about is understanding the 'why' behind a system before jumping into the 'how.'
 
 ## Current Focus
 
@@ -20,7 +20,7 @@ Working on **AutoDoc**, a CI/CD tool that automates documentation generation fro
 
 **Backend & APIs:** FastAPI, .NET, Flask, RESTful API Design
 
-**Frontend:** Angular, React, TypeScript
+**Frontend:** Angular, React
 
 **Infrastructure & DevOps:** Docker, GitHub Actions, GitLab CI/CD, RabbitMQ
 
