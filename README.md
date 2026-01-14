@@ -1,6 +1,3 @@
-# About Me:
-
-CS student at Texas State graduating December 2025. I've worked on enterprise systems at Dell, EDI integrations, and internal tooling. Right now I'm building AutoDoc - automating documentation updates from code changes. I care about understanding the 'why' behind a system before jumping into the 'how.'
 
 ## Featured Projects
 
@@ -33,6 +30,8 @@ CS student at Texas State graduating December 2025. I've worked on enterprise sy
 Working on **AutoDoc**, a CI/CD tool that automates documentation generation from Git commit metadata. Working with a 3-person team through Agile Scrum, building Python AST parsers, Docker containerization, and GitHub Actions pipelines to eliminate manual documentation processes.
 
 ## Experience
+
+**Elston Johnson & Associates** — Software Engineer (August 2025 – January 2026)
 
 **Dell Technologies** — Software Engineer Intern (June 2025 – August 2025)
 
